@@ -1,0 +1,92 @@
+2020-12-27 21:21:24,972 logger ERROR https://www.phbs.pku.edu.cn/2020/seminar_1112/2024.html：不符合爬取预期，跳过,错误'NoneType' object has no attribute 'find'！
+2020-12-27 21:22:03,323 logger ERROR 插入数据遇到问题！
+
+2020-12-27 21:22:03,324 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '7:00 to 9:00 p.m., D'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:29:52,231 logger ERROR https://www.phbs.pku.edu.cn/2020/seminar_1112/2024.html：不符合爬取预期，跳过,错误'NoneType' object has no attribute 'find'！
+2020-12-27 21:30:28,109 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,109 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '7:00 to 9:00 p.m., D'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,125 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,126 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '6:00 to 9:00 p.m., D'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,144 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,145 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '15:30 p.m., December'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,162 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,163 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '20:30 to 21:30 p.m.,'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,178 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,179 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '15:00 to 17:00 p.m.,'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,195 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,196 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '15:00 to 16:30 p.m.,'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,215 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,216 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '18:00 to 20:00 p.m.,'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,235 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,236 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '7:00 p.m. to 9:00 p.'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,253 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,254 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '3:00 p.m. to 5:00 p.'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,271 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,271 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '12:00 to 14:00 GMT, '.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,790 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,790 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '2020/12/12 14:30-16:'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,811 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,812 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '2020/11/21 14:30-16:'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,833 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,834 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '2020/10/25 14:30-16:'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,852 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,853 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '2020/09/10 19:00-21:'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,871 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,872 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '2020/07/28 19:00-21:'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,886 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,887 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '2020/06/29 19:00-21:'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,902 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:30:28,902 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '2020/01/04 14:30-16:'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:30:28,906 logger ERROR 无法向文件：H:/my_code/some_programs/Poster_and_contact/data/HSBC/预告|傅晓岚：技术革命浪潮下金融企业的创新战略中写入相关文件!
+2020-12-27 21:30:28,908 logger ERROR 写入文件遇到问题[Errno 22] Invalid argument: 'H:/my_code/some_programs/Poster_and_contact/data/HSBC/预告|傅晓岚：技术革命浪潮下金融企业的创新战略.txt'!
+2020-12-27 21:30:28,949 logger ERROR 无法向文件：H:/my_code/some_programs/Poster_and_contact/data/STL//Regime Divergence or Convergence? Law of the Sea and Climate Change中写入相关文件!
+2020-12-27 21:30:28,950 logger ERROR 写入文件遇到问题[Errno 22] Invalid argument: 'H:/my_code/some_programs/Poster_and_contact/data/STL//Regime Divergence or Convergence? Law of the Sea and Climate Change.txt'!
+2020-12-27 21:56:44,115 logger ERROR https://www.phbs.pku.edu.cn/2020/seminar_1112/2024.html：不符合爬取预期，跳过,错误'NoneType' object has no attribute 'find'！
+2020-12-27 21:57:19,877 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:19,878 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '6:00 to 9:00 p.m., December 24 (Thursday'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:19,920 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:19,922 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '20:30 to 21:30 p.m., December 21 (Monday'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:19,939 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:19,940 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '15:00 to 17:00 p.m., December 11 (Friday'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:19,958 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:19,958 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '15:00 to 16:30 p.m., December 11 (Friday'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:19,975 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:19,976 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '18:00 to 20:00 p.m., December 5 (Saturda'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:19,995 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:19,996 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '7:00 p.m. to 9:00 p.m., December 2 (Wedn'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:20,010 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:20,011 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '3:00 p.m. to 5:00 p.m., November 29 (Sun'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:20,027 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:20,028 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'real_time'. Truncated value: '12:00 to 14:00 GMT, 20 November (Friday)'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:20,625 logger ERROR 插入数据遇到问题！继续插入下一条
+
+2020-12-27 21:57:20,626 logger ERROR (2628, b"String or binary data would be truncated in table 'Poster.dbo.poster_get', column 'name'. Truncated value: 'Convergence analysis of finite element method for natural convection M'.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+2020-12-27 21:57:20,786 logger ERROR 无法向文件：H:/my_code/some_programs/Poster_and_contact/data/HSBC/预告|傅晓岚：技术革命浪潮下金融企业的创新战略中写入相关文件!
+2020-12-27 21:57:20,787 logger ERROR 写入文件遇到问题[Errno 22] Invalid argument: 'H:/my_code/some_programs/Poster_and_contact/data/HSBC/预告|傅晓岚：技术革命浪潮下金融企业的创新战略.txt'!
+2020-12-27 21:57:20,795 logger ERROR 无法向文件：H:/my_code/some_programs/Poster_and_contact/data/STL//Regime Divergence or Convergence? Law of the Sea and Climate Change中写入相关文件!
+2020-12-27 21:57:20,796 logger ERROR 写入文件遇到问题[Errno 22] Invalid argument: 'H:/my_code/some_programs/Poster_and_contact/data/STL//Regime Divergence or Convergence? Law of the Sea and Climate Change.txt'!
